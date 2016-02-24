@@ -15,7 +15,7 @@ $ git add .
 OR 
 ```
 $git add -A
-
+```
 2) Create a new repo on YOUR Git page
 Open your Git page, create and name a new repository
 
@@ -24,18 +24,18 @@ Open your Git page, create and name a new repository
 $ git remote show origin
 ```
 $ git remote rm origin
-
+```
 4) Add YOUR origin to the repository
 ```
 $ git remote add origin [address copied from your newly-created repo]
-
+```
 5) Commit your changes
 ```
 $ git commit -am "Your comment"
-
+```
 6) Push to your new repository
 ```
 $ git push origin master
-
+```
 ###Git Markdown Cheatsheet
 https://github.com/adam-
